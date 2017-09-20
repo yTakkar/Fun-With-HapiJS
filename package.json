@@ -1,0 +1,15 @@
+{
+  "name": "fun-with-hapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yTakkar <www.shtakkar@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "handy-log": "^1.0.1",
+    "hapi": "^16.6.0"
+  }
+}
